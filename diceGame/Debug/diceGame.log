@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jales\Documents\Codes\C++\projects\diceGame\diceGame\src\main.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jales\Documents\Codes\C++\projects\diceGame\diceGame\src\main.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  diceGame.vcxproj -> C:\Users\jales\Documents\Codes\C++\projects\diceGame\Debug\diceGame.exe
